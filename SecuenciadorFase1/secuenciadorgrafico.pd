@@ -1,0 +1,7 @@
+#N canvas 0 23 1366 719 10;
+#X obj 79 50 Secuencia~;
+#X text 948 53 Diego Molina Quintero;
+#X text 727 873 Modo de uso: 1- Escoge el sonido para cada uno de las
+filas 2- Enciende (clic en on/off) 3- Escoge el BPM 4- Sube el volumen
+de cada pista 5- Juega con los parametros de la revberb General 6-
+crea Musica.;
